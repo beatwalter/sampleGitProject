@@ -1,1 +1,2 @@
 This is a sample of a file just added online in GitHub to my repository
+and this is a change to it
